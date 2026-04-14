@@ -1,339 +1,380 @@
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     HEADER BANNER                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d0d,60:1a0033,100:00ffcc&height=220&section=header&text=A%20T%20H%20E%20X&fontSize=90&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=◈%20Cybersecurity%20Researcher%20◈%20Malware%20Developer%20◈%20Dark%20Web%20Analyst%20◈&descAlignY=62&descColor=a78bfa&descSize=15"/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d0d0d,100:001a00&height=220&section=header&text=ATHEX&fontSize=90&fontColor=00ff41&animation=blinking&fontAlignY=45&desc=◈%20BLACK%20HAT%20%7C%20MALWARE%20DEV%20%7C%20GHOST%20IN%20THE%20MACHINE%20◈&descAlignY=68&descColor=39ff14&descSize=14&stroke=00ff41&strokeWidth=2" width="100%"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00FFCC&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=55&lines=█+Black+Hat+Hacker+💀;█+Malware+Developer+🦠;█+Cybersecurity+Researcher+🔐;█+Dark+Web+Analyst+🕸️;█+OSINT+%26+Reverse+Engineering+🔍;█+Exploit+Developer+💉;█+Penetration+Tester+🛡️" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Athexblackhat&label=👁%20PROFILE+VIEWS&color=00ffcc&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Athexblackhat?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=0d0d0d&logo=github&logoColor=00ffcc" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PAKISTAN-🇵🇰-0d0d0d?style=for-the-badge"/>
 
 </div>
 
-<!-- GLITCH TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=750&height=45&lines=%5BROOT%40ATHEX%5D+~%23+whoami;Black+Hat+Hacker+%F0%9F%92%80+%7C+Ghost+In+The+Machine;Malware+Dev+%F0%9F%A6%A0+%7C+RAT+Builder+%7C+Payload+Crafter;%5BWARNING%5D+Unauthorized+Access+Detected...;Dark+Web+Analyst+%F0%9F%95%B8%EF%B8%8F+%7C+.onion+Explorer;Exploit+Dev+%F0%9F%92%89+%7C+0-Day+Hunter;%5BSYSTEM+BREACH%5D+You+were+already+compromised.;Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%7C+FSc+Student+by+Day.+Ghost+by+Night.;ALLAH+First.+Root+Second.+%F0%9F%A4%B2" />
-</p>
-
-<!-- STATUS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Athexblackhat&label=INTRUSIONS+DETECTED&color=00ff41&style=for-the-badge&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%F0%9F%9F%A2-00ff41?style=for-the-badge&labelColor=0d0d0d&color=00ff41" />
-  <img src="https://img.shields.io/badge/THREAT%20LEVEL-CRITICAL%20%F0%9F%94%B4-ff0000?style=for-the-badge&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Pakistan-%F0%9F%87%B5%F0%9F%87%B0-0d0d0d?style=for-the-badge&labelColor=001a00&color=00ff41" />
-</p>
+<br/>
 
 ---
 
-<!-- TERMINAL ABOUT + HACKING GIF SIDE BY SIDE -->
-<img align="right" width="360" src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" />
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## `[root@athex ~]# cat /etc/athex.conf`
+<img align="right" alt="Hacking GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## 👾 &nbsp;`whoami`
 
 ```bash
-┌──(root㉿ATHEX)-[/home/darkweb]
-└─# cat identity.txt
+╔══════════════════════════════════════════════╗
+║   ┌──(athex㉿darkweb)-[~]                    ║
+║   └─$ cat /etc/athex/identity.conf           ║
+╚══════════════════════════════════════════════╝
+```
 
-  ██████╗  ██████╗  ██████╗ ████████╗
-  ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
-  ██████╔╝██║   ██║██║   ██║   ██║   
-  ██╔══██╗██║   ██║██║   ██║   ██║   
-  ██║  ██║╚██████╔╝╚██████╔╝   ██║   
-  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝   
-
-  [*] Name     : ATHEX — the one they warned you about
-  [*] Origin   : Pakistan 🇵🇰 — where real hackers are born
-  [*] Job      : I don't have one. I have ACCESS.
-  [*] Hobby    : Making sysadmins cry at 3:00 AM
-  [*] Faith    : ALLAH first. root second. 🤲
-  [*] Status   : Already inside. You just don't know yet 💀
-  [*] Motto    : chaos is my compiler. destruction is my debugger.
-
-[EOF] — good luck patching this.
+```yaml
+Name        : ATHEX
+Alias       : AthexBlackHat | inziXploit
+Location    : Pakistan 🇵🇰
+Education   : FSc Computer Science Student
+Role        : Black Hat Hacker / Malware Dev
+Research    : Cybersecurity & Dark Web
+Specialty   : Exploit Dev · Reverse Eng · OSINT
+Status      : Always learning. Always hacking. 🔥
+Fun Fact    : Calm outside. Pure chaos inside. 💀
+Contact     : Instagram @itx_athex86
 ```
 
 <br clear="right"/>
 
 ---
 
-## `[root@athex ~]# cat /var/log/mindset.log`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   WHAT I DO                                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-```
-[00:01] chaos is my compiler. destruction is my debugger.
-[00:13] i wrote my first malware before i wrote my first essay.
-[01:37] i've been in places on the internet that don't officially exist.
-[02:55] i've seen things on the dark web that reset your worldview.
-[03:12] some people fear the dark. i built a home there.
-[03:33] some people follow the rules. i reverse engineer them.
-[04:01] some people learn hacking. i breathe it.
-[04:44] pakistan produced me. the internet couldn't contain me.
-[05:00] FSc student by day. ghost in your system by night.
-[05:55] ALLAH watches over me while i watch over everything else. 🤲💀
-
-[WARNING] you can close this tab. but i'm already in the next one.
-[INFO]    Status   : Always learning. Always hacking. 🔥
-[INFO]    Fun Fact : Calm outside. Pure chaos inside. 💀
-[INFO]    Contact  : Instagram @itx_athex86
-```
-
----
-
-<!-- HACKING GIF ROW 1 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="32%" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="32%" />
-  <img src="https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif" width="32%" />
-</p>
-
----
-
-## `[root@athex ~]# cat /opt/arsenal/capabilities.json`
+## ⚡ &nbsp;What I Do
 
 <div align="center">
 
-| ☣️ `MALWARE_DEV` | 🌑 `DARKWEB_OPS` | 💉 `EXPLOIT_DEV` | 🔍 `OSINT` |
+| 🦠 Malware Development | 🌑 Dark Web Research | 🔓 Penetration Testing | 🔍 OSINT |
 |:---:|:---:|:---:|:---:|
-| RATs · Keyloggers · Payloads · Worms · Droppers | .onion Intel · Threat Actors · Hidden Markets | Shellcode · CVE PoC · 0-Days · Buffer Overflows | HUMINT · Digital Profiling · Footprinting |
+| Building offensive tools, RATs, payloads & malware samples for security research | Investigating .onion networks, threat actors & underground markets | Web app, network & system pentesting with real-world techniques | Open source intelligence gathering & digital threat profiling |
 
-| 🔓 `PENTESTING` | 🔁 `REVERSE_ENG` | 📡 `NET_SECURITY` | 🤖 `SOC_ENG` |
+| 💉 Exploit Dev | 🔁 Reverse Engineering | 📡 Network Security | 🤖 Social Engineering |
 |:---:|:---:|:---:|:---:|
-| Web App · Network · System · AD Attacks | Binary Analysis · Obfuscation · Malware Behavior | MITM · Packet Crafting · Wireless · DNS Poison | Phishing · Vishing · Pretexting · Human Exploits |
+| Writing shellcode, CVE PoCs & custom exploits for offensive research | Disassembling binaries, analyzing malware & cracking obfuscation | Traffic analysis, packet crafting, MITM & wireless attacks | Phishing, pretexting & human-layer attack research |
 
 </div>
 
 ---
 
-## `[root@athex ~]# ls -la /usr/bin/languages/`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                LANGUAGES I KNOW                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=00ff41&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0d0d" />
-  <br/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d0d0d" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0d0d0d" />
-</p>
+## 💻 &nbsp;Languages I Know
 
----
+<div align="center">
 
-## `[root@athex ~]# ls /opt/weapons/`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-<p align="center">
-  <b>⚔️ — OFFENSIVE & EXPLOITATION —</b><br/><br/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Hydra-00ff41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-ff0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-39ff14?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/MSFVenom-8B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-</p>
+<br/>
 
-<p align="center">
-  <b>🔍 — RECON & OSINT —</b><br/><br/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Maltego-0099CC?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/TheHarvester-00ff41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Recon--ng-a78bfa?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/SpiderFoot-ff6600?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-</p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash%2FShell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<p align="center">
-  <b>🧬 — REVERSE ENGINEERING & FORENSICS —</b><br/><br/>
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/x64dbg-00008B?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Volatility-2F4F4F?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Binary_Ninja-ff6600?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-</p>
+<br/>
 
-<p align="center">
-  <b>🖥️ — OPERATING SYSTEMS —</b><br/><br/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white&labelColor=0d0d0d" />
-</p>
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+
+</div>
 
 ---
 
-## `[root@athex ~]# ./skill_scan.sh --target=self`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              HACKING TOOLS & ARSENAL                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🛡️ &nbsp;Hacking Tools & Arsenal
+
+<div align="center">
+
+**⚔️ Offensive & Exploitation**
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hydra-1C1C1C?style=for-the-badge&logo=linux&logoColor=00ffcc"/>
+<img src="https://img.shields.io/badge/John_The_Ripper-black?style=for-the-badge&logo=linux&logoColor=red"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-1C1C1C?style=for-the-badge&logo=linux&logoColor=00ffcc"/>
+
+<br/>
+
+**🔍 Recon & OSINT**
+
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logo=shodan&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maltego-0099CC?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TheHarvester-1a1a2e?style=for-the-badge&logo=linux&logoColor=00ffcc"/>
+<img src="https://img.shields.io/badge/Recon--ng-black?style=for-the-badge&logo=linux&logoColor=a78bfa"/>
+
+<br/>
+
+**🧬 Reverse Engineering & Forensics**
+
+<img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/x64dbg-00008B?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Volatility-2F4F4F?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autopsy-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<br/>
+
+**🖥️ Operating Systems & Platforms**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+
+<br/>
+
+**🌐 Web & Dev Tools**
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  SKILL BARS                                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🔬 &nbsp;Research & Skill Level
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║              [ ATHEX THREAT CAPABILITY MATRIX v2.0 ]            ║
+║  SKILL                          LEVEL           PROGRESS        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Module                    ████████████ Score   Tier            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Social Engineering      ▓▓▓▓▓▓▓▓▓▓░  95%  [ ★ ELITE      ]  ║
-║  Malware Dev & Analysis  ▓▓▓▓▓▓▓▓▓░░  90%  [ ★ ELITE      ]  ║
-║  RAT & Payload Dev       ▓▓▓▓▓▓▓▓▓░░  88%  [ ▲ ADVANCED   ]  ║
-║  Penetration Testing     ▓▓▓▓▓▓▓▓▓░░  88%  [ ▲ ADVANCED   ]  ║
-║  Dark Web Research       ▓▓▓▓▓▓▓▓░░░  82%  [ ▲ ADVANCED   ]  ║
-║  Exploit Development     ▓▓▓▓▓▓▓▓░░░  80%  [ ▲ ADVANCED   ]  ║
-║  OSINT & Recon           ▓▓▓▓▓▓▓▓░░░  80%  [ ▲ ADVANCED   ]  ║
-║  Network Security        ▓▓▓▓▓▓▓░░░░  75%  [ ◆ INTER      ]  ║
-║  Reverse Engineering     ▓▓▓▓▓▓▓░░░░  65%  [ ◆ INTER      ]  ║
-║  Binary Exploitation     ▓▓▓▓▓▓░░░░░  60%  [ ◆ INTER      ]  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  [SYS] Overall Threat Rating : ████████░░  CRITICAL  ☠️         ║
+║  🦠 Malware Dev & Analysis      Expert          ▓▓▓▓▓▓▓▓▓░  90% ║
+║  🛡️  Social Engineering          Expert          ▓▓▓▓▓▓▓▓▓▓  95% ║
+║  🔓 Penetration Testing         Advanced        ▓▓▓▓▓▓▓▓▓░  88% ║
+║  🤖 RAT & Payload Dev           Advanced        ▓▓▓▓▓▓▓▓▓░  88% ║
+║  🌑 Dark Web Research           Advanced        ▓▓▓▓▓▓▓▓░░  82% ║
+║  💉 Exploit Development         Advanced        ▓▓▓▓▓▓▓▓░░  80% ║
+║  📡 Network Security            Intermediate    ▓▓▓▓▓▓▓▓░░  78% ║
+║  🕵️  OSINT & Recon               Advanced        ▓▓▓▓▓▓▓▓░░  82% ║
+║  🔍 Reverse Engineering         Intermediate    ▓▓▓▓▓▓▓░░░  65% ║
+║  🧬 Binary Exploitation         Intermediate    ▓▓▓▓▓▓░░░░  60% ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- HACKING GIFS ROW 2 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="49%" />
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="49%" />
-</p>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff&border_radius=12"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_radius=12"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Athexblackhat&theme=tokyonight&border=00ffcc&background=0d1117&stroke=00ffcc&ring=a78bfa&fire=ff0044&currStreakLabel=00ffcc&sideLabels=a78bfa&border_radius=12"/>
+
+</div>
 
 ---
 
-## `[root@athex ~]# python3 athex.py`
+## 📈 &nbsp;Contribution Activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&bg_color=0d1117&color=00ffcc&line=a78bfa&point=ff0044&area_color=1a0033&area=true&hide_border=false&border_color=00ffcc&radius=6"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--           TROPHIES - use a working hosted service            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Athexblackhat&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4" width="95%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  PYTHON CLASS CARD                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🎯 &nbsp;Current Focus
 
 ```python
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# [CLASSIFIED] — DO NOT DISTRIBUTE
-
-import sys, os, socket, time
-from darkness import DarkWeb, Payload, RootAccess
+# ░█████╗░████████╗██╗░░██╗███████╗██╗░░██╗
+# ██╔══██╗╚══██╔══╝██║░░██║██╔════╝╚██╗██╔╝
+# ███████║░░░██║░░░███████║█████╗░░░╚███╔╝░
+# ██╔══██║░░░██║░░░██╔══██║██╔══╝░░░██╔██╗░
+# ██║░░██║░░░██║░░░██║░░██║███████╗██╔╝╚██╗
+# ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
 
 class Athex:
     def __init__(self):
-        self.name       = "ATHEX"
-        self.alias      = ["AthexBlackHat", "inziXploit"]
-        self.country    = "Pakistan 🇵🇰"
-        self.status     = "Already inside your network 💀"
-        self.roles      = [
-            "Black Hat Hacker",
-            "Malware Developer",
-            "Dark Web Analyst",
-            "Exploit Developer",
-            "OSINT Specialist"
-        ]
-        self.langs      = [
-            "Python", "Rust", "C/C++", "Assembly",
-            "Java", "Kotlin", "C#", "JavaScript",
-            "PHP", "Bash", "PowerShell", "VBA"
-        ]
-        self.learning   = [
-            "Kernel Rootkits",
-            "AI-Powered Malware",
-            "0-Day Research",
-            "Advanced Persistence Techniques"
-        ]
-        self.tools      = RootAccess.get_arsenal()
-        self.faith      = "ALLAH first. Always. 🤲"
-        self.contact    = "Instagram: @itx_athex86"
+        self.name         = "ATHEX"
+        self.alias        = ["AthexBlackHat", "inziXploit"]
+        self.country      = "🇵🇰 Pakistan"
+        self.roles        = ["Black Hat Hacker", "Malware Dev", "Dark Web Researcher"]
+        self.languages    = ["Python", "Rust", "C/C++", "Java", "Kotlin",
+                             "C#", "JavaScript", "PHP", "HTML/CSS",
+                             "Bash/Shell", "VBA", "Assembly", "PowerShell"]
+        self.learning     = ["Kernel Rootkits", "AI-Powered Malware", "0-Day Research"]
+        self.interests    = ["Offensive Security", "CTF Challenges", "Underground Research"]
+        self.looking_for  = "Like-minded hackers & collaborators 💀"
+        self.reach_me     = "Instagram: @itx_athex86 | YouTube: @inzixploit444"
+        self.fun_fact     = "ALLAH knows what's truly inside 🤲"
 
-    def initialize(self):
-        print("\n[*] Booting ATHEX core systems...")
-        time.sleep(0.5)
-        print("[*] Loading payload modules.............. [DONE]")
-        print("[*] Establishing dark web tunnels........ [DONE]")
-        print("[*] Bypassing IDS/IPS signatures......... [DONE]")
-        print("[*] Injecting into target processes...... [DONE]")
-        print("[*] Covering tracks........................ [DONE]")
-        print("\n[+] Welcome to my dark corner of the internet.")
-        print("[+] Stay curious. Stay dangerous. 💀")
-        print(f"\n[!] You are now operating as: {self.name}")
-        print("[!] Remember: ALLAH knows what's truly inside. 🤲\n")
+    def say_hi(self):
+        print("[*] Welcome to my dark corner of the internet.")
+        print("[*] Stay curious. Stay dangerous. 🔥")
+        print("[*] I break things to understand how they work. 💀")
 
 if __name__ == "__main__":
     me = Athex()
-    me.initialize()
-
-# Output:
-# [+] Welcome to my dark corner of the internet.
-# [+] Stay curious. Stay dangerous. 💀
+    me.say_hi()
 ```
 
 ---
 
-## `[root@athex ~]# git log --oneline --graph`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              SNAKE — with setup guide                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00cc33&border_radius=6&include_all_commits=true&count_private=true&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&border_radius=6" />
-</p>
+## 🐍 &nbsp;Contribution Snake
 
-<p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com/?user=Athexblackhat&theme=terminal&border=00ff41&background=0d0d0d&stroke=00ff41&ring=39ff14&fire=ff0044&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&border_radius=6" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Athexblackhat/Athexblackhat/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Athexblackhat/Athexblackhat/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Athexblackhat/Athexblackhat/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ Click here — Setup snake animation (one time only)</summary>
+<br/>
+
+**Step 1:** In your profile repo (`Athexblackhat/Athexblackhat`), create this file:
+`.github/workflows/snake.yml`
+
+**Step 2:** Paste this content:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Go to `Actions` tab → Run the workflow manually once. Done! 🐍
+
+</details>
 
 ---
 
-## `[root@athex ~]# grep -r "activity" /var/log/github/`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CONNECT WITH ME                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ff0044&area=true&area_color=00ff4122&hide_border=false&border_color=00ff41&radius=6&custom_title=ATHEX+INTRUSION+ACTIVITY+LOG" />
-</p>
+## 🌐 &nbsp;Connect With Me
 
----
+<div align="center">
 
-## `[root@athex ~]# trophy --user=athex`
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/@athexxinzii)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itx_athex86)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@inzixploit444)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athexblackhat)
 
-<p align="center">
-  <img src="https://github-profile-trophy.zeabur.app/?username=athexblackhat&theme=matrix&no-frame=false&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews,MultiLanguage" />
-</p>
+<br/>
 
----
+**💬 DM on Instagram:** `@itx_athex86` &nbsp;|&nbsp; **📺 YouTube:** `@inzixploit444`
 
-<!-- HACKING GIF ROW 3 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/Rpl1sysP9coYw/giphy.gif" width="32%" />
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="32%" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="32%" />
-</p>
-
----
-
-## `[root@athex ~]# ./connect.sh --social`
-
-<p align="center">
-  <a href="https://fb.com/athexxinzii">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  <a href="https://instagram.com/itx_athex86">
-    <img src="https://img.shields.io/badge/Instagram-%40itx__athex86-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  <a href="https://www.youtube.com/@inzixploit444">
-    <img src="https://img.shields.io/badge/YouTube-%40inzixploit444-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  <a href="https://github.com/Athexblackhat">
-    <img src="https://img.shields.io/badge/GitHub-Athexblackhat-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-  </a>
-</p>
-
----
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Athexblackhat/Athexblackhat/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+</div>
 
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:001a00,50:0d0d0d,100:000000&height=140&section=footer&animation=blinking&fontColor=00ff41&text=%5B+SESSION+TERMINATED+%5D&fontSize=28&fontAlignY=55&desc=you+can+close+this+tab.+but+i%27m+already+in+the+next+one.+%F0%9F%92%80&descAlignY=78&descColor=39ff14&descSize=13" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,30:1a0033,60:302b63,100:000000&height=130&section=footer&animation=fadeIn"/>
 
-<p align="center">
-  <sub>
-    <code>[ 💀 "The quieter you become, the more you are able to hear." — Kali Linux ]</code><br/>
-    <code>[ 🤲 ALLAH first. Always. Then root. ]</code><br/><br/>
-    ⭐ Star my repos if you find them useful — or fear them. Either works.
-  </sub>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&color=a78bfa&center=true&vCenter=true&width=650&lines=💀+%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;🔐+%22Security+is+not+a+product%2C+but+a+process.%22;🇵🇰+Made+in+Pakistan+|+Breaking+the+web+one+byte+at+a+time" alt="Footer Quote"/>
+
+<br/><br/>
+<sub>⭐ Star my repos if you find them useful! Every star motivates me to build more 💪</sub>
+
+</div>
